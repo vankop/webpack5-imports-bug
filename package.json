@@ -1,0 +1,24 @@
+{
+  "name": "webpack5-imports-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack-cli --env.production",
+	"dev": "webpack-cli --env.development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vankop/webpack5-imports-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vankop/webpack5-imports-bug/issues"
+  },
+  "homepage": "https://github.com/vankop/webpack5-imports-bug#readme",
+  "dependencies": {
+    "webpack": "^5.0.0-beta.14",
+    "webpack-cli": "^3.3.11"
+  }
+}
