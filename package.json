@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/vankop/webpack5-imports-bug#readme",
   "dependencies": {
-    "webpack": "^5.0.0-beta.14",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
